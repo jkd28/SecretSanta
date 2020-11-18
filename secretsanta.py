@@ -52,7 +52,6 @@ while not pairs_created:
 
 
 port = 465  # For SSL
-password = ""  # enter gmail password here
 
 # Create a secure SSL context
 context = ssl.create_default_context()
